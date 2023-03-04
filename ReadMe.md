@@ -38,7 +38,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/PServerYT/ExternityHu
 [issues-shield]: https://img.shields.io/github/issues/PServerYT/ExternityHubV2.svg?style=for-the-badge
 [issues-url]: https://github.com/PServerYT/ExternityHubV2/issues
 [license-shield]: https://img.shields.io/github/license/PServerYT/ExternityHubV2.svg?style=for-the-badge
-[license-url]: https://raw.githubusercontent.com/PServerYT/ExternityHub/main/LICENSE
+[license-url]: https://github.com/PServerYT/ExternityHub/blob/main/LICENSE
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
