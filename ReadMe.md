@@ -12,11 +12,10 @@
     <img src="OIP.jpg" alt="Logo" width="80" height="80">
 
   <h3 align="center">Externity Hub V2</h3>
-</div>
 
 ### Built With Lua
-
-
+<img src="https://download.vikidia.org/vikidia/fr/images/0/0f/Lua-logo-nolabel.svg.png" alt="Logo" width="50" height="50">
+</div>
 <!-- LICENSE -->
 ## License
 
