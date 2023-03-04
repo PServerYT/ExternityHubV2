@@ -13,7 +13,7 @@
     <img src="Externity Hub.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Externity Hub</h3>
+  <h3 align="center">Externity Hub V2</h3>
 </div>
 
 ### Built With Lua
