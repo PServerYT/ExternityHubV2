@@ -15,9 +15,10 @@
 
 ### Built With Lua
 <img src="https://download.vikidia.org/vikidia/fr/images/0/0f/Lua-logo-nolabel.svg.png" alt="Logo" width="50" height="50">
+
+## License
 </div>
 <!-- LICENSE -->
-## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 ```lua
