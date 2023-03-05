@@ -22,7 +22,7 @@
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PServerYT/ExternityHub/main/ExternityHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PServerYT/ExternityHubV2/main/ExternityHub.lua"))()
 ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
